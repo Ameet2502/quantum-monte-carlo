@@ -1,6 +1,6 @@
 # Benchmarking Quantum Advantage in Economics: A Case Study on Stress Testing and DSGE Models
 
-BTP (thesis) project, Dept. of Electrical Engineering, IIT Kharagpur — Ameet Kumar Badhei (22E38017), under Dr. Indranil Hazra, Subir Chowdhury School of Quality and Reliability. April 2026.
+Ameet Kumar Badhei (22E38017), under Dr. Indranil Hazra, Subir Chowdhury School of Quality and Reliability. April 2026.
 
 Explores quantum amplitude estimation (QAE) as a substitute for classical Monte Carlo in economic applications — bank stress testing (Vasicek portfolio loss) and DSGE model solving — comparing convergence rates and circuit resource costs against classical MC baselines.
 
